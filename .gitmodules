@@ -1,3 +1,6 @@
 [submodule "MM-backend"]
 	path = MM-backend
 	url = https://github.com/maina2/MM-backend.git
+[submodule "MM-fronted"]
+	path = MM-fronted
+	url = https://github.com/maina2/MM-frontend.git
